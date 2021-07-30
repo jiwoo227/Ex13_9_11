@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Ex13_9_11</string>
     <string name="btn_start">시작</string>
+    <string name="tv1">SeekBar1 진행률</string>
+    <string name="tv2">SeekBar2 진행률</string>
+
+
 </resources>
